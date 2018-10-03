@@ -1,0 +1,6 @@
+[package]
+name="Clarifai_example"
+
+[[solvers]]
+name="Image_Recognition"
+class="api_example/solver/ImageRecognier"
