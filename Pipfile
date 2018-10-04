@@ -18,3 +18,9 @@ python_version = "3.5"
 [packages]
 
 clarifai = "*"
+toml = "*"
+tqdm = "*"
+flask = "*"
+gevent = "*"
+numpy = "*"
+pillow = "*"
