@@ -3,4 +3,4 @@ name="Clarifai_example"
 
 [[solvers]]
 name="Image_Recognition"
-class="api_example/solver/ImageRecognier"
+class="api_example/solver/Image_Recognition"
